@@ -1,0 +1,4 @@
+tensorflow
+google-cloud-storage==1.16.1
+Pillow
+
